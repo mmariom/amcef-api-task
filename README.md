@@ -53,4 +53,4 @@ The application will be running at `http://localhost:8080`.
 
 Once the application is running (either in Docker container or in your local IDE), you can visit `http://localhost:8080/swagger-ui/index.html` to see the available endpoints and interact with them.
 
-`Total time spent on this assignment approx. 90-120 mins`
+`Total time spent on this assignment approx. 60-100 mins`
